@@ -29,7 +29,7 @@ ZSH_THEME="minimal_improved"
 For your changes to take immediate effect run `$ source ~/.zshrc` and your terminal will look like this:
 
 <p align="center" width="200" height="200">
-  <img src="https://raw.githubusercontent.com/gdsrosa/minimal_improved/master/minimal_improved_theme.png">
+  <img src="https://raw.githubusercontent.com/alextorres94/minimal_improved/master/minimal_improved_theme.png">
   <br/>
 </p>
 
