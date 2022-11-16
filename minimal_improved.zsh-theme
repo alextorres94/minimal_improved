@@ -1,5 +1,5 @@
 LCHAR_WIDTH=%1G
-LCHAR='$'
+LCHAR='👉  '
 
 PROMPT='%{$fg[cyan]%}%c %{$fg[white]%}%{$LCHAR$LCHAR_WIDTH%} %{$reset_color%}'
 RPROMPT='$(git_prompt_info)'
